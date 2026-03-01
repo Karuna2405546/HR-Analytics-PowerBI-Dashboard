@@ -15,7 +15,7 @@ This project presents an end-to-end HR Analytics Dashboard built using Power BI 
 - Data Visualization
 
 ## 📊 Dashboard Preview
-(Add Screenshot Here)
+![Dashboard](dashboard.png)
 
 ## 📁 Files
 - HR-Analytics-Employee-Attrition-Dashboard.pbix
